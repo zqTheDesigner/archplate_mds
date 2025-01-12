@@ -99,7 +99,7 @@ A technique using a standard battery or household power source combined with sal
    Attach the red cable (positive) from the battery container<sup>7</sup> to the ***back side*** of the metal plate<sup>2</sup>. Secure the connection with black tape<sup>8</sup>. Ensure no part of the metal plate that connects to the red cable is exposed to the salt water.  
    **将金属板连接到电池上**  
    将电池盒<sup>7</sup>的红线（正极）连接到金属板<sup>2</sup>的***背面***，用电胶带<sup>8</sup>固定连接。确保背面金属板部分不会接触盐水。  
-   ![](./media/electro_etching_step5.jpg){ width=320 }  
+   ![](./media/electro_etching_step5.jpg =320x)
 
 6. **Connect the Black Cable to the Container**  
    Fix the black cable (negative) from the battery container<sup>7</sup> to the salt water container. Ensure the copper wire is submerged at least 1–2 cm into the water.  
