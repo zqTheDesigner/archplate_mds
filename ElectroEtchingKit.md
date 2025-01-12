@@ -90,6 +90,7 @@ A technique using a standard battery or household power source combined with sal
 1. **Draw Image on the Plate**  
    Use the paint marker<sup>1</sup> to draw a pattern on one side of the plate<sup>2</sup>. Exposed areas will be etched, while black areas will remain shiny.  
    **在金属板上绘图**：用油漆笔<sup>1</sup>在金属板<sup>2</sup>的一面绘制图案。裸露区域将被蚀刻，黑色区域将保持光亮。  
+   
    <img src='./media/electro_etching_step1.png' width='320px' />
 
 2. **Scrape Details**  
@@ -99,6 +100,7 @@ A technique using a standard battery or household power source combined with sal
 3. **Protect Edges**  
    Touch up the edges with paint marker to ensure areas not meant to be etched are protected.  
    **保护边缘**：用油漆笔修整边缘，确保不需要蚀刻的区域受到保护。  
+   
    <img src='./media/electro_etching_step3.jpg' width='320px' />
 
 4. **Prepare Salt Water**  
@@ -109,12 +111,14 @@ A technique using a standard battery or household power source combined with sal
    Attach the red cable (positive) from the battery container<sup>7</sup> to the **_back side_** of the metal plate<sup>2</sup>. Secure the connection with black tape<sup>8</sup>. Ensure no part of the metal plate that connects to the red cable is exposed to the salt water.  
    **将金属板连接到电池上**  
    将电池盒<sup>7</sup>的红线（正极）连接到金属板<sup>2</sup>的**_背面_**，用电胶带<sup>8</sup>固定连接。确保背面金属板部分不会接触盐水。  
+   
    <img src='./media/electro_etching_step5.jpg' width='320px' />
 
 6. **Connect the Black Cable to the Container**  
    Fix the black cable (negative) from the battery container<sup>7</sup> to the salt water container. Ensure the copper wire is submerged at least 1–2 cm into the water.  
    **将黑线连接到容器上**  
    将电池盒<sup>7</sup>的黑线（负极）固定到盐水容器上，确保铜线至少浸入水中 1 至 2 厘米。
+   
    <img src='./media/electro_etching_step6.jpg' width='320px' />
 
 7. **Insert Batteries and Ensure Safety**  
@@ -126,6 +130,7 @@ A technique using a standard battery or household power source combined with sal
    Slowly immerse the metal plate into the salt water, ensuring the image side faces the negative cable. When bubbles appear, the etching process has started. For deep etching, it takes about 10 minutes with 4 AA batteries, and 4–5 minutes for light etching. Use a brush<sup>9</sup> to remove bubbles if they accumulate on the plate. Keep the plate vertical for optimal results.  
    **开始蚀刻**  
    慢慢将金属板插入盐水中，确保图案面朝向负极线。当出现气泡时，表示蚀刻过程已经开始。使用 4 节 AA 电池时，深蚀刻需要大约 10 分钟，浅蚀刻需要 4 至 5 分钟。如果气泡堆积在板上，使用毛笔<sup>9</sup>清除气泡。保持金属板垂直以获得最佳效果。  
+   
    <img src='./media/electro_etching_step8.jpg' width='320px' />
 
 9. **Check the Etching Progress**  
